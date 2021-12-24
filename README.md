@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**ziminliu/ziminliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/zhangtengjin/zhangtengjin/blob/main/icons/header.png)
 
-Here are some ideas to get you started:
+**A happy brick mover on the Front-end road**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧐   Interested in Front-end. Recent focus on Big Data.
+* 💼   Front-end Engineer at DTStack Group.
+* 🎓   19th graduate of School of Software, ECJTU.
+* 🌱   Recently learning photography knowledge.
+* 📚   Recently fell in love with books about workplace relations.
+* 💻   4 years of software education background, more than 1 year of development work experience.
+* ⛵   Live seriously, work happily.
+* ✍🏻   Put your back into it! 
