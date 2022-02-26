@@ -6,7 +6,7 @@
 
 * 🧐   Interested in Front-end. Recent focus on Big Data.
 * 💼   Front-end Engineer at DTStack Group.
-* 🎓   19th graduate of School of Software, ECJTU.
+* 🎓   21th graduate of School of Software, ECUT.
 * 🌱   Recently learning photography knowledge.
 * 📚   Recently fell in love with books about workplace relations.
 * 💻   4 years of software education background, more than 1 year of development work experience.
