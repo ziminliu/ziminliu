@@ -9,6 +9,6 @@
 * 🎓   21th graduate of School of Software, ECUT.
 * 🌱   Recently learning photography knowledge.
 * 📚   Recently fell in love with books about workplace relations.
-* 💻   4 years of software education background, more than 1 year of development work experience.
+* 💻   4 years of software education background, more than 2 year of development work experience.
 * ⛵   Live seriously, work happily.
 * ✍🏻   Put your back into it! 
