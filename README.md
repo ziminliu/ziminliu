@@ -4,11 +4,11 @@
 
 **A happy brick mover on the Front-end road**
 
-* 🧐   Interested in Front-end. Recent focus on Big Data.
-* 💼   Front-end Engineer at DTStack Group.
+* 🧐   Interested in Front-end. Recent focus on Honor of Kings.
+* 💼   Front-end Engineer at Zuoyebang.
 * 🎓   21th graduate of School of Software, ECUT.
-* 🌱   Recently learning photography knowledge.
-* 📚   Recently fell in love with books about workplace relations.
+* 🌱   Recently learning golang,object-c.
+* 📚   Recently fell in love with books about literature.
 * 💻   4 years of software education background, more than 2 year of development work experience.
 * ⛵   Live seriously, work happily.
 * ✍🏻   Put your back into it! 
