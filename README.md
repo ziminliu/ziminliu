@@ -19,7 +19,7 @@
   
   <!-- profile logo 个人资料徽标 -->
 
-  ![](https://raw.githubusercontent.com/ziminliu/ziminliu/output/github-contribution-grid-snake.svg) 
+  ![](https://raw.githubusercontent.com/ziminliu/ziminliu/output/github-contribution-grid-snake-dark.svg?palette=github-dark) 
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <!-- <picture>
