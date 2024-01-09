@@ -18,9 +18,6 @@
   <div>&nbsp;</div>
   
   <!-- profile logo 个人资料徽标 -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=ziminliu&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
 
   ![](https://raw.githubusercontent.com/ziminliu/ziminliu/output/github-contribution-grid-snake.svg) 
 
@@ -107,4 +104,8 @@
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+</div>
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ziminliu&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
